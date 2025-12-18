@@ -1,0 +1,11 @@
+clip==1.0
+huggingface_hub==0.36.0
+numpy==2.3.5
+peft==0.18.0
+Pillow==12.0.0
+quanto==0.2.0
+scikit_learn==1.8.0
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+tqdm==4.67.1
+transformers==4.57.3
